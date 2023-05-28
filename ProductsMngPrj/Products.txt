@@ -1,0 +1,5 @@
+
+se123,Tivi,1,2,Not Available
+se234,Phone,3,4,Not Available
+se345,Sofa,4,5,Available
+se456,Laptop,5,6,Available
